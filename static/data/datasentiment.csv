@@ -1,0 +1,410 @@
+,feedback,sentiment
+0,"It can give to us good insights, but no guarantee of what will happen in the future",pos
+1,Is it supposed to be a reference?,neutral
+2,Very good point,pos
+3,"Why not just one table/ They both contain, essentially, the same information Moreover, it would look better if the tables were properly labelled",neutral
+4,Larger profits or rates of return?,neutral
+5,"When you say variance between two objects, the reader will be inclined to think of co-variance, which is different from what you intended to say",neutral
+6,"Not clear: if there's only one stock (asset), then it will be the only influence on the rate of return",neg
+7,"In this context, what does it mean ""% chance of producing""?",neg
+8,Not a clear explanation of what the Sharpe ratio represents,neg
+9,"This section could have elaborated further into the issue of how optimal portfolios are calculated, the efficient frontier and some caveats of the theory",neutral
+10,Direct quotations require double quotation marks,neutral
+11,Can stock prices be predicted?,neutral
+12,Good point,pos
+13,"Broadly speaking, the volatility is not observed The expected rate of return is neither, however it doesn't matter as you mentioned in the previous page",neg
+14,"It's not only about when, but else whether the parties of the contract are obliged to deliver the underlying security",neutral
+15,The question itself could had been left out,neutral
+16,"Executive summary can be shortened - it feels more like an introduction of the report rather than a summary Definitions (eg, options) do not need to be provided at this stage",pos
+17,"The issue is not volatility, but rather extreme high (or low) rates of return",neutral
+18,"Although informative, this discussion is too descriptive It would be better to present your own view and explanation in terms of why these are important concepts",pos
+19,"All these tables could had been relegated to the appendix Displaying the covariance matrix provides information similar to the correlation matrix and, therefore, there's no need to include both in the body of the report The bordered covariance matrix: which use will the reader make of it?",neutral
+20,"Well done, well constructed graphs",neutral
+21,The first task is to find the optimal portfolio,neutral
+22,"By definition, one would have a hard time trying to predict shocks",neg
+23,There's some misunderstanding here: taxes are not necessarily raised when GDP is increasing,neutral
+24,How that happens?,neutral
+25,Correlation with which variable?,neutral
+26,"That's correct, good point",pos
+27,"This is the crux of the argument and the main insight in the derivation of the formula, well done",neutral
+28,"In practice, though, this is not possible",neutral
+29,"The executive summary could be shorter, however you explain quite well each of the sections of the report",neutral
+30,"Better simply say ""the higher the standard deviation""",neutral
+31,"Good discussion about arithmetic mean vs geometric mean, and the effect of extreme value on each of them",neg
+32,"This section is a bit too short, you could have elaborated more on optimal risky portfolios, efficient frontier, Sharpe ratio, and so forth",neutral
+33,"Yes, if only business cycles were not so hard to predict",neg
+34,Good analysis,pos
+35,Why basis risk is important? This could had been explained,pos
+36,Which ones? This is an important point to be discussed,pos
+37,Not clear: what exactly is the level of systematic risk between the portfolios?,neutral
+38,Very good summary: concise and to the point,pos
+39,"In a way, yes However, an important aspect is not only in terms of this trade-off but rather how to compare different assets, for which we mainly discuss measures that combine risk and return For example, would you invest in the S&P  or the ASX ? Which criterion your decision would be based on?",neutral
+40,Good point,pos
+41,Something missing here Don't forget to use quotation marks whenever relying on direct quotations,neg
+42,Why specially from a long-term perspective? Does it mean that diversification is not important if the investment horizon is short?,neg
+43,"A very interesting story, indeed: google Long-Term Capital Management The other manager of the fund was Robert Merton, a professor at Harvard",pos
+44,"Absolutely, I trust this is precisely what a (good) financial analyst would tell you",pos
+45,"Very nice discussion, well done: the first point could be described as a mean-reverting property of the business cycle",pos
+46,I would disagree - why a passive strategy would focus on cyclical industries? One counterexample would be of a passive fund that tracks the S&P  (why?),neutral
+47,Nice example!,pos
+48,"All the below is correct, however it's just too descriptive The option price is increasing in the volatility of the underlying asset, but why that's the case?",neutral
+49,The discussion here is a bit too short,neutral
+50,"Yes, this is an important point",pos
+51,"Well posed discussion that covered the main topics related to the characteristics of the assets, good job",pos
+52,"The discussion above was very good, though",pos
+53,"Not very clear, requires a better explanation",neutral
+54,"In fact, increasing interest rates to reduce inflation",neutral
+55,Very good point,pos
+56,"Yes, correct In fact, the Black-Scholes option pricing model is also used as a tool to estimate the volatility of the underlying stock (implied volatility) which is called premium",neutral
+57,Almost there: would the product be the commodity or the contract?,neutral
+58,"Correct, well done",neutral
+59,Good use of references,pos
+60,A conclusion could had been added before the references,neutral
+61,"That's to say, an efficient portfolio The optimal portfolio is the one that maximizes the Sharpe ratio",neutral
+62,No need to provide definitions in the executive summary,neutral
+63,Good introduction: short but informative nonetheless,pos
+64,"This is not correct If there 's zero volatility, then it's a constant and the calculation of an average of any sort is not required Perhaps what you mean to say is that AM is useful provided the volatility of the rate of return of the asset is not too high",neg
+65,Being mindful that the future does not (and most likely will not) repeat the past,neutral
+66,Why that's the case? This point is not clear in your argument,neg
+67,This is not a credible source,neg
+68,This is very standard material that you could have sourced from elsewhere,neutral
+69,Good summary of the Sharpe ratio,pos
+70,"These are very important concepts, it was a good choice to explain them all",pos
+71,"Correct - this discussion fits in well since you set the stage for it in your previous paragraph, well done",neg
+72,This is a good point: are there any studies that back up your claim?,pos
+73,It would be advisable to avoid short paragraphs like this,neutral
+74,"Yes, that's an important point In fact, at times the Black-Scholes model is used to estimate the volatility of the underlying stock (implied volatility)",pos
+75,This example is a good illustration of leverage using options,pos
+76,CO I believe,neutral
+77,"Exactly, this is precisely the purpose of margins",pos
+78,"Good practical example of basis risk, well done",pos
+79,This section is a bit too descriptive - critical analysis is missing,neg
+80,It's better not to mention tables at this stage,pos
+81,The sections in the table of contents should be numbered - this is the main purpose of it,neutral
+82,"That's to say, government bonds - also relevant is the country that issued the bond Corporate bonds are subject to the risk of default, too",neutral
+83,"Not clear - if the geometric is the real one, why then to bother using the arithmetic mean?",neg
+84,It boils down to the preferences of investors - one possible combination would be to have zero investment in a particular class,neutral
+85,"Correct, this is the separation result mentioned in the textbook",neutral
+86,"One should be time-weighted, the other, dollar-weighted",neg
+87,"Risk cannot be observed, only estimated - as such, it might not be accurately measured",neutral
+88,Be mindful of page breaks,neutral
+89,"These are two different concepts - utility function represents the preferences of the investor, but not in the sense of being preferred over something else",neutral
+90,"Precisely, that's correct",pos
+91,"Missing in this section is a discussion of cyclical and defensive industries Based on Ghana's economic outlook, you could then provide a recommendation for investing in either one of these two industries",neutral
+92,"Yes, since the higher the volatility the more valuable the option is",pos
+93,"That's not correct - the reason is that some (real) assets have option-like features (for example, property development)",neutral
+94,"The exchange allows risks to be transferred and be borne by those that can better afford it The price mechanism plays an important role on it, and this notion is not as trivial as it might sound",pos
+95,This discussion could had been better articulated - it's too short and descriptive,neutral
+96,"Very systematic report, a table of contents like this helps the reader to understand how the whole document is organised",neutral
+97,You could have numbered the equations without necessarily writing 'Equation',neutral
+98,Good discussion: a reference would fit well here Are there studies showing that the GM is indeed a downward biased estimator of future returns?,pos
+99,"Very good point, well done",pos
+100,What's the complete portfolio? This term could had been defined earlier,neutral
+101,"You could have elaborated a bit more on this: why the separation property is, from a practical perspective, so important?",pos
+102,"Good that this was mentioned, it creates the context for the forthcoming analysis",pos
+103,"Informative discussion, well done",neutral
+104,Why that's the case? Is it more a supply or demand effect?,pos
+105,"This is correct, however a more critical discussion could have been provided For instance, why the price of an option is positively associated with the volatility of the underlying asset?",neutral
+106,"Indeed, it's nice that you have mentioned the put-call parity",pos
+107,"Nice discussion about margins and mark-to-market, well done",pos
+108,"Good discussion, and in this section you also managed to summarize well the pros and cons of each measure",pos
+109,"Very nice discussion and use of references, why to relegate it to the conclusions and not to the analysis of options?",pos
+110,"Very informative summary, the only section missing is about future markets",neutral
+111,"In general, yes However, that will also depend on the time-horizon of the investment",neutral
+112,"This is a fair point, however government bonds' rate of return are also influenced by economic factors (eg, inflation) not under direct control of the government",pos
+113,You could have presented only the summary statistics for each asset,neutral
+114,"Yes: risk is not observable and, as such, must be estimated The question is, then: what's the best estimator?",pos
+115,"This is a very important remark, well done Knowing the assumptions of the model gives us a sense of whether it's applicable or not - are these assumptions verified in reality? If not, are there substantial grounds to invalidate the results?",pos
+116,"Given that you already have presented the correlation matrix, there's no need to show the covariance matrix - essentially, they provide the same information",neutral
+117,"Nice graph, well done",pos
+118,"This could have been delegated to the appendix, particularly the bordered covariance matrix",neutral
+119,"Yes, this is what one would conclude from these two economic indicators - the prospects for the economy are good",pos
+120,"Good discussion, in economics this kind of argument is referred to as general equilibrium Well done",pos
+121,"Yes, this is what one would expect It's nice that you have provided a reference to support this claim",pos
+122,This section could have elaborated a bit more on the theory of option pricing rather than focusing only on the calculations,neutral
+123,Good discussion Any studies to support the claim that futures markets are usually in contango?,neutral
+124,"Good explanation, clear example",pos
+125,The discussion in this section could be a bit more critical and less descriptive,neutral
+126,"Yes, this would be a good start",pos
+127,Very good summary: concise and informative,pos
+128,"It might be the case, to a certain degree",neutral
+129,Well articulated introduction touching on the main issues that will be discussed,pos
+130,"You managed to explain quite well what each of the assets represent, and therefore contextualize the the figures for return and risk of each",neutral
+131,"Very pertinent discussion As you have mentioned, the data cover the GFC and, as such, it might be biased",neutral
+132,Good discussion and use of references,pos
+133,"This could be better explained: in which sense a diversified asset allocation has a significant impact on performance? Diversification is mainly done for eliminating non-systematic risk and, therefore, is important for risk management purposes",pos
+134,"The CAL is meant to intersect the y-axis at the risk-free interest rate (ie, how much the portfolio would yield in case of zero risk)",pos
+135,Tables need to be properly labeled,neutral
+136,"The bordered-covariance matrix does not provide any information that's crucial for the understanding of the report and, as such, could have been relegated to the appendix",neutral
+137,That's a fair question The economic indicators are signs of the state of the economy - how the economic agents will react to them might either strengthen or weaken the underlying fundamentals associated with the indicators,pos
+138,"Would you say that stock markets are overvalued, or else that low interest rates had led to the formation of asset bubbles?",neutral
+139,"Interesting observation, to be confirmed",pos
+140,Which asset this beta is associated with? Not clear,neg
+141,"Good discussion, in other words some stocks are hybrids and do not behave exactly as if from a cyclical or defensive industry",pos
+142,A more critical discussion of option pricing could had been pursued,neutral
+143,Too descriptive: why basis risk is a risk for someone invested in a futures contract?,neutral
+144,Where this information is?,neutral
+145,"Hi Josh, yours was an outstanding report, well done",pos
+146,Very informative summary,neutral
+147,Good use of references,pos
+148,"This is an important remark, however it would be nice to point out a reference pointing out to asset returns not following the normal distribution as claimed",pos
+149,It's better to avoid short paragraphs like this one,neutral
+150,The summary statistics would suffice in the body of the report (the time-series of the rates of return could had been relegated to the appendix),neutral
+151,"Well posed discussion, nice flow",pos
+152,"Correct, and it's important to make this distinction: the optimal portfolio is efficient, but only one among the efficient portfolios is optimal",neutral
+153,You could have cited the original article by William Sharpe - avoid Investopedia,pos
+154,"Very good point However, be mindful that you could also have arrived at a risk higher than the minimum risk among the individual assets, and that would not be wrong: the goal is to maximize the reward for risk (Sharpe ratio), not to minimize the risk",neutral
+155,Nice that you have mentioned it,pos
+156,"Important remark, future does not repeat the past You could have also mentioned that the correlation in the rates of returns across assets might change, and that would have an effect on the weights in the optimal risky portfolio too",neutral
+157,"Relatively shorter section, but informative nonetheless You could have included in the discussion a note on leading, coincident, and lagging indicators",neutral
+158,"Correct, it's nice that you not only have mentioned how different variables affect option prices, but also why",neutral
+159,"Important remark, well done",pos
+160,"You brought to the discussion very important issues that need to be considered when talking about the Black-Scholes formula, I'm quite pleased to see that",pos
+161,"Yes, correct",neutral
+162,Good discussion of basis risk,pos
+163,"Good point, this relates to one of my comments in the efficient frontier section",pos
+164,This could have been omitted - be mindful that the report is intended to be a formal document,neutral
+165,"Diversification is mainly to reduce risk, not to beat the market",neutral
+166,What elite capabilities would be?,neutral
+167,That's correct,neutral
+168,"Tables need to be properly labeled In this particular one, there's no need to include the time-series of rates of return - only the summary statistics would suffice",neutral
+169,Good point,pos
+170,"Good discussion, these are important issues to mention when talking about expected return and risk",pos
+171,"Correct, this is why the theory behind efficient frontier and optimal risky portfolios is so important",neutral
+172,Correct,neutral
+173,"In fact, where in the CAL the portfolio will be",neutral
+174,"This is not correct The allocation across the different risky assets will be the same for every investor there's only one optimal risky portfolio, regardless of whether the investor is a retiree or a young professional What changes is the amount that will be invested in the optimal risky portfolio vis a vis the riskfree asset (the retirees will most likely invest more in the risk-free asset as opposed to young professionals)",neutral
+175,It's good that you have discussed some of the limitations of the theory,pos
+176,Why lending money is not possible?,neutral
+177,There's no need to present the covariance and bordered covariance matrix in the body of the report - both could have been relegated to the appendix The chart below needs to be properly labeled,neutral
+178,"Yes, this would be a good starting point",pos
+179,"Yes, this is prudent advice",neutral
+180,Nice quote,pos
+181,"Good explanation, well posed",pos
+182,You could have elaborated in terms of how and why these variables affect option prices,neutral
+183,"Good point, and one of the reasons why it can expose investors to significant risks",pos
+184,Explanation of basis risk and its implications could be more clear,pos
+185,"Absolutely, well said!",neutral
+186,Why do you think so? Wouldn't the Sharpe ratio simply be a measure of compensation for risk?,neutral
+187,"Yes, very important point",pos
+188,This example requires a better explanation: where these numbers are coming from?,pos
+189,Good discussion about manipulation proof measures,pos
+190,True indeed,pos
+191,Nice discussion and good use of references,pos
+192,This table could had been relegated to the appendix Beware also that you refer to it as figure but then mention Table,neutral
+193,"That is to say, intersecting the efficient frontier at the point where the Sharpe ratio is maximized",neutral
+194,"There seems to be an issue with some of the steps in the optimization process Moreover, the axes in the chart should had been labeled",neutral
+195,Nice portray of the assumed scenario,pos
+196,"It's good that you have made this point since there are two other types of economic indicators (ie, coincident and lagging), with differently implications in terms of characterizing the state of the economy (as you correctly explain in the sequence)",neutral
+197,Good discussion and use of references,pos
+198,"Very good analysis and example, well done",pos
+199,You have mentioned the assumptions and could have gone a bit further in explaining whether they are verified in reality,neutral
+200,That's correct,neutral
+201,"Very good discussion about funds' performance measures, particularly so in terms of their limitations, well done",pos
+202,The executive summary is meant to provide a snapshot of what's covered in the report and its results/conclusions,neutral
+203,These are outside the scope of investment management,neutral
+204,Please proof read your report before submission,neutral
+205,In fact the S&P  includes the  largest companies in the US,neutral
+206,"There is no need to display the time-series of rates of return, the summary statistics for each asset would suffice",neutral
+207,The analysis could had been more critical and less descriptive,neutral
+208,"Good explanation of efficient portfolios, well done",pos
+209,This statement is not very clear: does it mean that portfolio will differ based on investors' preferences?,neg
+210,"By definition, the risk-free aseet has zero risk",pos
+211,"This is a nice discussion The slope of the CAL is equal to maximum Sharpe ratio, which in turn indicates the compensation (eg expected return) for risk Therefore, the higher the slope of the CAL, investors are being better rewarded for the risk of their portfolio",neutral
+212,This table looks very similar to the one reproduced before,neutral
+213,There's no need to display the bordered-covariance matrix in the body of the report - it doesn't help the reader to understand the report,neutral
+214,"This graph needs to be properly labeled (eg, axes need to be named)",neutral
+215,"You seem to be displaying an unnecessary portion of the inefficient frontier Moreover, the CAL should intersect the y-axis at the rusk-free rate",neg
+216,Very appropriate discussion: different types of indicators will convey different messages about the economy,neutral
+217,That's correct,neutral
+218,"Correct, as they tend to move in the same direction of the economy",neutral
+219,"It's good that you have pointed out the factors that affect the prices of options, however you could have gone a step further and discuss the reasons for that (eg, why the price of an option increases with the volatility of the underlying asset?)",pos
+220,"This is not correct - the option is to invest in an asset that presumably yields more than the risk-free rate since it has positive volatility That said, the option might entail a negative return and as such not be exercised",neutral
+221,"Very good point, well done - not necessarily, though, to the supply and demand for stocks",pos
+222,Good summary of future contracts,pos
+223,"Precisely Although you have provided an example quantifying basis risk, you could have elaborate a bit more on the implications of it for investors",pos
+224,The analysis in this section could had been more critical and less descriptive,neutral
+225,"Yes, very perceptive remark",neutral
+226,An executive summary should had been provided,neutral
+227,The time-series of the rates of return could have been relegated to the appendix,neutral
+228,Tables need to be properly labeled,neutral
+229,Why it would be helpful in terms of identifying scope? This demands a better explanation,pos
+230,"Alright, this is the explanation that I was after",neutral
+231,In which sense? Is it because of being a reference for investors across the world?,neutral
+232,"Yes, and this is the focus of the question involving the efficient frontier and optimal risky portfolios",neutral
+233,"Not necessarily - what if all the assets chosen offer a bad reward (ie, expected return) for the embedded risk?",neg
+234,I guess this was meant to be typed 'This asset class' It's always good to proof read the report before the final submission,pos
+235,Be mindful of page breaks,neutral
+236,"Not true, the arithmetic and geometric means differ because of episodes of high volatility - if the volatility was low (not necessarily zero), the two averages would be similar",neg
+237,"Or else, that Brent Oil has experienced periods of high volatility",pos
+238,"The frontier looks very nice, you could have labeled the axes though",pos
+239,There's no need to provide the bordered-covariance matrix in the body of the report - it doesn't contain any essential information for the reader of report,neutral
+240,"Same comment applies here Also, be mindful of page breaks",neutral
+241,"Only correlation, there's no bordered correlation",neutral
+242,"Refrain from mentioning bordered correlation, correlation is the only term to be used",neutral
+243,"In fact, identify the portfolio that offers the best reward (ie, expected return) per unit of risk - this is the portfolio that maximizes the Sharpe ratio",pos
+244,It's not clear what it means and the information that it could provide to an investor,neg
+245,"Yes, that's correct These are goods that have low price-elasticity",neutral
+246,Don't forget to use capital letters when starting a sentence,neutral
+247,"A discussion of the theory involved in option pricing, particularly the Black-Scholes formula, was expected",neutral
+248,"Similarly to the comment on the previous section, the discussion could had been more critical and touched on additional elements (eg, basis risk)",neutral
+249,Why not? This is precisely how it works in practice,pos
+250,More analysis was required: how the measures compared to each other? What are the pros an cons of each?,neutral
+251,A conclusion to the report should had been provided,neutral
+252,Table of contents should have been provided in a page separate from the executive summary,neutral
+253,Good discussion of asset classes An introduction with the road map for the report is missing,neutral
+254,Tables need to be properly labeled The time series of the returns could have been left for the appendix The table below with the summary statistics suffices - that's the only information the reader needs,neutral
+255,It seems that you have used the wrong numbers for the report - these do not match the data provided,neg
+256,"The chart is not properly labeled, the axes are not identified and neither is the scale used",neutral
+257,"Rather, the capital allocation line, which in turn should be tangent to the efficient frontier",neutral
+258,This table could be smaller and omit the 'Year' row and column,neutral
+259,Sections of the report need to be easily identifiable by the reader,neutral
+260,"Yes, that's correct and it corresponds to the main purpose of economic indicators",neutral
+261,Not fixed income but rather positive returns (as per the data used for the analysis),neutral
+262,"This is a very nice graph, it would have caused an even better impact on the reader if it was displayed using a another scale The legend takes too much space of the chart, which makes the lines difficult to distinguish",neutral
+263,"Consumer expectations is a measure of the sentiment of consumers towards the overall economy, not to a particular asset",neutral
+264,"Which stocks, which industries, and which time-frame? Stocks tend to have high volatility compared to other assets",neutral
+265,"Once again, it would be better to start new sections using bold letters in their titles",pos
+266,"Why do you say so? This is not as per your calculations above, which show that both put and call options have positive prices",neutral
+267,The intrinsic value of the option is not based on the difference between its price and that of the underlying stock - it's give directly by the Black-Scholes formula,neutral
+268,"Correct, good discussion of basis risk and clear explanation of why it's a risk for investors",pos
+269,"This section is too descriptive, a proper analysis of the different funds' performance measures is missing",neg
+270,A conclusion to the report should have been provided,neutral
+271,Executive summary is missing,neg
+272,"Not correct - for example, an investor might face a period of consistent positive returns on her investment without realizing any losses There will still be an average of that even though no losses have ocurred",neutral
+273,"The discussion that follows is too descriptive, and could have been substitute by a table containing the summary statistics for the rates of return on each of the five assets",neutral
+274,"In case of high volatility in the price of the asset, or great dispersion in the rates of return",pos
+275,"This figure could have been displayed in the body of the report since it provides an important illustration of the concept Moreover, if the figure is in the appendix then the reader must be made aware of that without having to look for it throughout the report",pos
+276,This section does not provide any discussion in terms of the implications of economics indicators for portfolio management,neutral
+277,"This is an overstatement, the World Bank is not the guardian of the global economic system, by any means",neutral
+278,"The factors that affect option prices could not only be mentioned but also explained Overall, though, a fair discussion of the model was provided",neutral
+279,"This is a good explanation of forward contracts supported by an example, however it doesn't make clear how forwards differ from future contracts",pos
+280,"Correct, these are precisely the risks faced by sellers and buyers of future contracts You could have explained basis risk also",neutral
+281,More critical analysis and discussion of the concepts was required in this section,neutral
+282,"Before the references, a conclusion should had been included in the report",neutral
+283,"Yes, that's the main issue In other words, we are after the data generating process of the rates of return of assets, a daunting task",neutral
+284,"One of the most, in the previous century",neutral
+285,Good discussion and emphasis on the reason why the arithmetic mean differs from the geometric one,neutral
+286,That's a very important assumption and the reason why the use of past data to predict future returns to be made with caution,neutral
+287,"Very important remark, well done",pos
+288,"There's only one optimal risky portfolio, which is the one where the efficient frontier is tangent to the capital allocation line",neutral
+289,"Yes, precisely",pos
+290,This answers a comment that I previously made,neg
+291,Be mindful of page breaks,neutral
+292,"Very detailed graph, well done",pos
+293,"The covariance matrix does not provide significant additional information to the correlation matrix and, as such, could be left for the appendix The bordered covariance matrix is also not fundamental for the understanding of the report and, hence, could be omitted",neutral
+294,"Behavioral finance would be qualified as something else I highly encourage you to have a look at it It's related to behavioral economics, field which got the most recent Nobel Prize in Economics (the winner was Richard Thaler)",neutral
+295,"Detailed discussion where the reasons for cyclical and defensive cycles to be affected in different ways by the business cycle, and the corresponding impact on portfolio management, were well presented",neutral
+296,"Yes, and as of March  there's still no consensus in regards to the benefits of quantitative easing programs put forward by a variety of central banks around the world",neutral
+297,"Yes, true indeed It's the least observable of the parameters What's the reason for the volatility of the underlying to affect the price of the option, in a way that the higher the volatility the higher the option price?",neutral
+298,"Interesting point, good use of references",pos
+299,"In a way, it's like leveraging but being exposed only to the good side of it",pos
+300,"Very good example, well done",pos
+301,Good discussion supported by examples,pos
+302,"This was not necessarily the case, as evidenced by the GFC A very controversial discussion, indeed, and I'm glad that you have made this remark on the report",pos
+303,"Yes, that's what the margins are for - to guarantee that the parties of the contract can fulfill their obligations",neutral
+304,"Correct, unless investors are risk-neutral",neutral
+305,"Well posed discussion, good job",pos
+306,"Although very detailed and comprising the main features of the different measures, the discussion that follow could have done across  paragraphs - at the moment, it's too much information being presented in one block of text",neutral
+307,Good executive summary: concise and informative,pos
+308,Good introduction: could have been used as an executive summary as well,pos
+309,"Mostly, however that does not apply to every single bond offered by different sovereigns (sovereign default risk is a still a major issue in many countries)",neutral
+310,Good discussion and use of references,pos
+311,Which Copper? Please provide the reference,neutral
+312,"Ok, I understand now how you are citing your sources However, you still need to mention the name of the authors before the page numbers (in case it's a direct quotation) and the year of the publication",pos
+313,"Technically speaking, standard deviation is not a probability (a probability must be between  and , which is not always the case for standard deviation figures)",neutral
+314,Nice table with a proper display of the summary statistics for each asset,pos
+315,"And for this calculation, the correlation between the assets also need to be considered",neutral
+316,"These are two different things: not being correlated does not mean that two assets are negatively correlated Yours is an example of the former, however not of the later (which in turn is the way of making the most out of diversification)",neutral
+317,What's being plotted in the efficient frontier is the maximum expected return for varying levels of risk of a portfolio The weightings themselves are not displayed in the efficient frontier,neg
+318,"Nice and clear explanation of ""dominated"" portfolios (ie, the ones that investor can improve upon)",pos
+319,"The axes of the graph need to be properly labeled Moreover, the efficient frontier and the CAL seem to coincide beyond some level of portfolio risk This would be wrong since there can be only one point of tangency between the efficient frontier and the CAL",neg
+320,"That's to say, different investors will allocate their wealth between the risk-free asset and the optimal risky portfolio in different ways However, the optimal risky portfolio is the same, regardless of the risk preferences of investors This is the so called separation property",neutral
+321,"Nice discussion, good use of references",pos
+322,"You could have discussed a bit more cyclical and defensive industries, although overall you have provided a nice discussion",pos
+323,Good example that illustrates quite well the use of put options,pos
+324,Be mindful of page breaks,neutral
+325,"Good choice of example to illustrate the concept, well done",pos
+326,"Excellent discussion The use of futures for hedging purposes also eliminate the risk, though: sometimes we tend to see an adverse move in prices as detrimental to our position, but nonetheless there's always a hedging cost to be faced (as in the example above where the farmer locked in a price of $ but the spot price turned out to be $ in the expiry date)",pos
+327,"Precisely, clear explanation",neutral
+328,"Relatively to the other sections, I found this a bit too descriptive and not enough critical",neg
+329,"Well said, you could have made such remarks more extensively throughout this section",neutral
+330,"Good summary, a bit too detailed - it could be shorter",pos
+331,"Correct, be mindful that asymmetric and skewed payoffs' distributions stand for the same",neutral
+332,"Informative comparison of GM and AM, well done",neutral
+333,"It can estimate risk, indeed; however, the criterion for the decision is how much compensation for risk is yielded by different portfolios, and we are after the one that offers the highest (or else, that maximizes the Sharpe ratio)",neutral
+334,"Nice table with some important summary statistics; be mindful, though, of page breaks",pos
+335,"In the efficient frontier, there's only one optimal portfolio: the one that maximizes the Sharpe ratio",neutral
+336,"Yes, indeed The discussion of the efficient frontier and the optimal was well posed, good job",pos
+337,"Excellent - leptokurtic distributions have fat tails, ie, the likelihood of extreme events (think of asset returns in times of crises) is higher, and such characteristic is in turn observed in reality",neutral
+338,"Given that you have presented the correlation matrix, the covariance matrix could have been omitted - they basically provide the same information (and in this regard, the correlation matrix is easier to be interpreted)",neutral
+339,"The bordered-covariance matrix is also not fundamental for the reader to understand the report, and should also had been relegated to the appendix",neutral
+340,"Excellent, you have got the efficient frontier quite right, well done",pos
+341,"Good analysis presented in this section, particularly what the indicators represents in terms of the outlook for the economy, and the implications in terms of choosing investment assets from cyclical and defensive industries You could have touched a bit on the meaning of the different types of indicators (ie, leading, lagging and coincident)",pos
+342,"Good discussion and use of references - at times, the Black-Scholes model is used not to price options but rather to infer the volatility of the underlying asset For instance, the implied volatility is the one that makes the theoretical price of the option to be equal to the option price observed in the market",neutral
+343,"The constant volatility assumption is the one most likely violated in real markets, good job in mentioning it",pos
+344,"Yes, since the investor that gets to be negatively affected by price movements might not be willing to fulfill his/her obligations at the expiry date",neg
+345,"Excellent explanation of basis risk supported by a clear example, well done",pos
+346,Be mindful of page breaks,neutral
+347,"Yes, correct The type of preferences that we looked at the assignment and is mostly assumed in investment management theory is such that investor care about both risk and return As such, evaluating performance based only on observed returns would be misleading",neutral
+348,No need to use  decimal places,neutral
+349,Very good exposition of an issue of the Sharpe ratio as a performance measure,pos
+350,An executive summary is missing,neg
+351,"It's not that the geometric mean takes into account the volatility in asset returns whereas the arithmetic mean does not, it's just that - by virtue of its formula - the geometric mean assigns less weight to extreme observations and, as such, is less affected by what could be viewed as outliers",neg
+352,"Good discussion provided, a reference here would fit well",pos
+353,"The efficient frontier is correct and the graph presented is properly labeled You could have titled the figure and added a proper caption to it (eg, Figure :)",neutral
+354,This statement and most of the paragraph could be better articulated,pos
+355,What's the side of the efficient frontier line?,neutral
+356,"The Black-Scholes option pricing theory could be better discussed in this section, which only presents numerical results without any analysis whatsoever",neutral
+357,"The basis risk is rather related to a decouple of the spot price from the futures price and, as such, it's not only related to the volatility of the corresponding asset",neutral
+358,It would be better to provide clear section titles whenever addressing different questions of the assignment,neutral
+359,"The discussion provided in the final section was very instructive: you managed to articulate well what each measure of performance captures, and the corresponding limitations Following it, you should have concluded the report before presenting the references - recall that this document was meant to be a formal business report",neutral
+360,"Good summary, concise and informative",pos
+361,"Yes, and this is why it's not an easy task",pos
+362,Too repetitive,neg
+363,Good motivation for the discussion of arithmetic and the geometric means that follow The main features of each method (time vs dollar weighting) were well explained,pos
+364,Precisely what the standard deviation is: dispersion around the mean,neutral
+365,This happens when extreme events are observed - the Normal distribution does not assign high enough probability to them (the tails of the distribution are not fat enough),neutral
+366,"You could have presented in the body of the report the graph containing the efficient frontier, CAL and the optimal risky portfolio - that helps immensely the reader in understanding the theory",neutral
+367,"Diversification does not reduce systematic risk, which by definition is not diversifiable",neutral
+368,The more two assets are negatively correlated,neutral
+369,"Very good discussion, the explanation of the separation property is clear and well motivated",pos
+370,"Correct, this is one of the main disadvantages of it",neutral
+371,"Yes, these are the two main drivers of monetary policy",neutral
+372,"Good discussion You could have briefly mentioned and explained the different types of economic indicator (ie, leading, lagging and coincident), and touched on some of the implications for investment management",neutral
+373,How and why these factors affect option prices?,neutral
+374,"These are very important assumptions, you could have discussed a bit further whether they are verified in reality (and the implications in case they are not)",pos
+375,Why future option? It leads the reader to think it's another type of option that you just described,neutral
+376,"Very detailed and clear discussion of future contracts, well done You could have provided a simple example as an illustration",neutral
+377,"Precisely, well posed explanation",pos
+378,"Good start: stating the two categories where performance measures lie, and then moving into the discussion of each of them",pos
+379,"You highlighted in a fair way the main factors (and limitations) of each of these performance measures, good job",pos
+380,"Before the introduction, you could have provided an executive summary and a table of contents, as in the typical (AIB) format required for reports",neg
+381,"The information below should have been provided in a proper table and discussed accordingly It's also missing in part 'A' a critical discussion of the different methods used to calculate average returns (ie, arithmetic and geometric means)",neg
+382,"In which sense? This is not necessarily true, you could have explained this point better",neutral
+383,These type of discussion is too descriptive - it's better to provide a table and let the reader realize by herself how the numbers compare to each other,neutral
+384,"Since it is more easily interpreted and given that it provides similar information, the correlation matrix would be a better table to be displayed than the covariance matrix",pos
+385,"The efficient frontier, in conjunction with the CAL and the optimal risky portfolio, is missing",neg
+386,Good discussion and use of references,pos
+387,"Yes, that's the challenge",neutral
+388,"A good discussion was carried in this section, however you relied too much on the same reference - there should more mix of sources",pos
+389,Not enough critical discussion was provided in this section,neutral
+390,Wrong citation style,neg
+391,What are the implications of basis risk for investors?,neutral
+392,"Ok, this is what I was after :)",pos
+393,The information provided below should had been put in a table,neutral
+394,"Nice discussion of the performance meaures, particularly so when some of the assumptions they rely on were discussed",pos
+395,"The optimal allocation gives the best reward (expected return) for risk, not the minimum risk",pos
+396,"Highly priced in which sense? This statement is not clear Rather, the combinations of risk and return that are efficient (ie, the maximum expected return for a particular level of risk, and vice versa)",neutral
+397,"This sections falls short of providing a critical discussion of the different ways of calculating the mean (ie, arithmetic and geometric means) Rather, it relies too much on describing the numbers obtained",neg
+398,A legend should be provided for the reader to be able to identify the meaning of each column The chart needs to be properly labeled,neutral
+399,The efficient frontier should had been displayed in this section,neutral
+400,No need of  decimal places,neutral
+401,"This point was emphasized multiple times previously, and it's not the main take-away from the efficient frontier",neutral
+402,The relationship between risk and return has no implication whatsoever on the outlook for the economy,neutral
+403,"A more articulated discussion should had been provided in terms of the types of industries that give higher or lower exposure to the business cycle (ie, cyclical vs defensive stocks), and the types of economic indicators (ie, leading, lagging and coincident) based on which investors can extract information about the economy",pos
+404,"These are not all the factors that affect option prices, and missing is one which, arguably, is the most important: the volatility of the underlying asset",neutral
+405,"The paragraph that follows provides a fair discussion, however the ones that follow are too descriptive - critical reflection is missing",neutral
+406,It's still not clear what are the implications of basis risk for investors,neg
+407,This section covered in a satisfactory way the different measures related to funds and managers' performance,neutral
+408,"That's to say, relative to a specific benchmark",neutral

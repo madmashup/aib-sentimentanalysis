@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- <link rel="icon" href="static/root/images/favicon.ico" type="image/ico" /> -->
+
+    <title>Aspect Based Opinion Mining | Project AIB | Madhav Sharma</title>
+
+    <!-- Bootstrap -->
+    <link href="../static/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../static/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="../static/nprogress/nprogress.css" rel="stylesheet">
+    <!-- iCheck -->
+    <link href="../static/iCheck/skins/flat/green.css" rel="stylesheet">
+	
+    <!-- bootstrap-progressbar -->
+    <link href="../static/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <!-- JQVMap -->
+    <link href="../static/jqvmap/dist/jqvmap.min.css" rel="stylesheet"/>
+    <!-- bootstrap-daterangepicker -->
+    <link href="../static/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="../static/build/css/custom.min.css" rel="stylesheet">
+
+    <script
+        src="https://code.jquery.com/jquery-3.4.1.js"
+        integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+        crossorigin="anonymous"></script>
+    <script> 
+      $(function(){
+        $("#includedContent").load("static/data/lda.html"); 
+      });
+    </script>
+
+
+
+  </head>
+
+  <body class="nav-md">
+    <div class="container body">
+      <div class="main_container">
+        <div class="col-md-3 left_col">
+          <div class="left_col scroll-view">
+            <div class="navbar nav_title" style="border: 0;">
+              <a href="/" class="site_title"> 📈<span>Dashboard</span></a>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <br />
+
+            <!-- sidebar menu -->
+            <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+              <div class="menu_section">
+                <ul class="nav side-menu">
+                  <li><a><i class="fa fa-home"></i> Home <span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                      <li><a href="/">Dashboard</a></li>
+                    </ul>
+                  </li>
+
+                  <li><a><i class="fa fa-table"></i> Tables <span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                      <li><a href="/tables">Tables</a></li>
+                    </ul>
+                  </li>
+                  <li><a><i class="fa fa-bar-chart-o"></i> Data Presentation <span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                      <li><a href="/ner">Named Entity Recognition (NER)</a></li>
+                      <li><a href="/ss">Sentence Similarity</a></li>
+                      <li><a href="/sa">Sentiment Analysis</a></li>
+                      <li><a href="/ta">Text Analysis</a></li>
+                      <li><a href="/tm">Topic Modeling</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+
+            </div>
+            <!-- /sidebar menu -->
+
+            <!-- /menu footer buttons -->
+            <div class="sidebar-footer hidden-small">
+              <a data-toggle="tooltip" data-placement="top" title="Settings">
+                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="FullScreen">
+                <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Lock">
+                <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+              </a>
+            </div>
+            <!-- /menu footer buttons -->
+          </div>
+        </div>
+
+        <!-- top navigation -->
+        <div class="top_nav">
+          <div class="nav_menu">
+            <nav>
+              <div class="nav toggle">
+                <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+              </div>
+
+            </nav>
+          </div>
+        </div>
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <br>
+        <br>
+        <div class="right_col" role="main" style="padding-right: 0px">
+        <div class="row x_title">
+        
+          <div>
+            <h3>LDA Topic Modeling</h3>
+        </div>
+        </div>
+          <!-- top tiles -->
+          <div class="col-md-12 col-sm-12 col-xs-12">
+           <div id="includedContent" style="overflow: auto; width: 100%; padding-right: 0px;"></div>
+          </div>
+          <!-- /top tiles -->
+
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="dashboard_graph">
+              <br>
+              <br>
+              <br>
+
+                
+                <div class="row x_title">
+                <div style="display: flex; justify-content: center;">
+                  <div>
+                    <h3>Boxplot on aggregated categorized data</h3>
+                  </div>
+                </div>
+                </div>
+
+                <div class="col-md-9 col-sm-9 col-xs-12">
+                  <!-- Where count chart would come in -->
+                </div>
+
+                <div class="clearfix"></div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="row">
+
+          <img 
+                src="/static/displaCyimages/vizsent.png" 
+                alt="Visualize Sentiment"
+                />
+
+          <br>
+          <br>
+
+          <div class="row x_title">
+          <div style="display: flex; justify-content: center;">
+            <div>
+              <h3>Count of sentiment on the basis of labels/categories</h3>
+            </div>
+          </div>
+          </div>
+
+          <div style="display: flex; justify-content: center;">
+          <img 
+                src="/static/displaCyimages/fc.png" 
+                alt="Score Comparison"
+                />
+          </div>
+
+          <br>
+          <br>
+
+          <div class="row x_title">
+          <div style="display: flex; justify-content: center;">
+            <div>
+              <h3>Example of a heatmap generated from a feedback</h3>
+            </div>
+          </div>
+          </div>
+          
+
+          <div style="display: flex; justify-content: center;">
+          <img 
+                src="/static/displaCyimages/heatmapex.png" 
+                alt="Heatmap"
+                />
+          </div>
+
+          <div class="row x_title">
+          <div style="display: flex; justify-content: center;">
+            <div>
+              <h3>Word Frequency</h3>
+            </div>
+          </div>
+          </div>
+
+          <div style="overflow: auto;"0">
+          {% block freq %}
+          <img src="{{ freq }}">
+          {% endblock %}
+          </div>
+
+          </div>
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+        <footer>
+          <div class="pull-right">
+            For Australian Institute of Business | Made with ❤️ by Madhav Sharma
+          </div>
+          <div class="clearfix"></div>
+        </footer>
+        <!-- /footer content -->
+      </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="../static/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="../static/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- FastClick -->
+    <script src="../static/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="../static/nprogress/nprogress.js"></script>
+    <!-- Chart.js -->
+    <script src="../static/Chart.js/dist/Chart.min.js"></script>
+    <!-- gauge.js -->
+    <script src="../static/gauge.js/dist/gauge.min.js"></script>
+    <!-- bootstrap-progressbar -->
+    <script src="../static/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <!-- iCheck -->
+    <script src="../static/iCheck/icheck.min.js"></script>
+    <!-- Skycons -->
+    <script src="../static/skycons/skycons.js"></script>
+    <!-- Flot -->
+    <script src="../static/Flot/jquery.flot.js"></script>
+    <script src="../static/Flot/jquery.flot.pie.js"></script>
+    <script src="../static/Flot/jquery.flot.time.js"></script>
+    <script src="../static/Flot/jquery.flot.stack.js"></script>
+    <script src="../static/Flot/jquery.flot.resize.js"></script>
+    <!-- Flot plugins -->
+    <script src="../static/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+    <script src="../static/flot-spline/js/jquery.flot.spline.min.js"></script>
+    <script src="../static/flot.curvedlines/curvedLines.js"></script>
+    <!-- DateJS -->
+    <script src="../static/DateJS/build/date.js"></script>
+    <!-- JQVMap -->
+    <script src="../static/jqvmap/dist/jquery.vmap.js"></script>
+    <script src="../static/jqvmap/dist/maps/jquery.vmap.world.js"></script>
+    <script src="../static/jqvmap/examples/js/jquery.vmap.sampledata.js"></script>
+    <!-- bootstrap-daterangepicker -->
+    <script src="../static/moment/min/moment.min.js"></script>
+    <script src="../static/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+    <!-- Custom Theme Scripts -->
+    <script src="../static/build/js/custom.min.js"></script>
+	
+  </body>
+</html>
