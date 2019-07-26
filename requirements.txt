@@ -28,7 +28,6 @@ joblib==0.13.2
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib
-more-itertools==7.2.0
 multiprocess==0.70.8
 murmurhash==1.0.2
 nltk==3.4.4
@@ -61,10 +60,10 @@ spacy==2.1.6
 sputnik==0.9.3
 srsly==0.0.7
 textblob==0.15.3
-thinc==7.0.8
-tqdm==4.32.2
-urllib3==1.25.3
-wasabi==0.2.2
-wcwidth==0.1.7
-Werkzeug==0.15.5
-zipp==0.5.2
+thinc
+tqdm
+urllib3
+wasabi
+wcwidth
+Werkzeug
+zipp
